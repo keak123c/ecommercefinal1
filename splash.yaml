@@ -1,0 +1,11 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  image_dark: "assets/image/saint_valentine_logo.png"
+  image: "assets/image/saint_valentine_logo.png"
+  color_dark: "#272727"
+
+web:
+  image_dark: "assets/image/saint_valentine_logo.png"
+  image: "/assets/image/saint_valentine_logo.png"
+  color: "#FFFFFF"
+  color_dark: "#272727"
